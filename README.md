@@ -7,7 +7,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-- npm i bootstrap@5.3.3
+
 
 <!---
 haticebulbull/haticebulbull is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

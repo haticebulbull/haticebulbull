@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @haticebulbull
 - 👩‍💻 I'm a frontend developer and mathematician who loves creating new things.
 - 👀 I’m interested in HTML , CSS , Javascript , React
-- 🌱 I’m currently learning nd developing projects; HTML , CSS , Javascript , React
+- 🌱 I’m currently learning and developing projects; HTML , CSS , Javascript , React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me htc.blbl@gmail.com
 - 😄 Pronouns: ...

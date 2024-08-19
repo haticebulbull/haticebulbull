@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @haticebulbull
+- 👋 Hi, I’m Hatice Bülbül
 - 👩‍💻 I'm a frontend developer and mathematician who loves creating new things.
 - 👀 I’m interested in HTML , CSS , Javascript , React
 - 🌱 I’m currently learning and developing projects; HTML , CSS , Javascript , React
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I am a believer in continuous and teamwork.
+I am good at communicating with people and the team
+- I like producing and finding solutions.
 - 📫 How to reach me htc.blbl@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 
 
